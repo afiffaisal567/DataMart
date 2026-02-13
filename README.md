@@ -1,5 +1,3 @@
-Platform prototype e-commerce untuk pembelian paket data internet. Dibangun menggunakan **React JS**, **Material UI (MUI)**, dan **json-server** sebagai mock backend API.
-
 > **Tanggal pengerjaan:** 13 Februari 2026  
 > **Waktu mulai:** 17:00 WIB  
 > **Waktu selesai:** 20:30 WIB
