@@ -45,7 +45,7 @@ Buka browser: **http://localhost:5173**
 
 ---
 
-## 📡 API Endpoints (json-server)
+## API Endpoints (json-server)
 
 Base URL: `http://localhost:3001`
 
@@ -64,7 +64,7 @@ Base URL: `http://localhost:3001`
 
 ---
 
-## 🔄 Flow Aplikasi
+## Flow Aplikasi
 
 ```
 Landing Page → Login/Register → Dashboard
