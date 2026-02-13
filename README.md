@@ -77,3 +77,11 @@ Landing Page → Login/Register → Dashboard
                                     └── Edit Profil
 ```
 
+<img width="1274" height="1029" alt="Screenshot_2026-02-13_15-59-52" src="https://github.com/user-attachments/assets/5ecd856d-75a5-4904-90e2-2af67c40dc31" />
+<img width="1280" height="585" alt="Screenshot_2026-02-13_16-00-03" src="https://github.com/user-attachments/assets/200c2203-4232-4e52-ad2d-00492fbb910e" />
+<img width="1274" height="788" alt="Screenshot_2026-02-13_16-00-09" src="https://github.com/user-attachments/assets/0154d159-f16b-4e91-865c-e415d11f97ba" />
+<img width="1274" height="673" alt="Screenshot_2026-02-13_15-58-48" src="https://github.com/user-attachments/assets/5f12e2aa-ef96-4036-af54-6ed08f3fcc22" />
+<img width="1274" height="1073" alt="Screenshot_2026-02-13_15-59-03" src="https://github.com/user-attachments/assets/35593564-5763-4bc1-9f7c-e492137dfb01" />
+<img width="1274" height="638" alt="Screenshot_2026-02-13_15-59-15" src="https://github.com/user-attachments/assets/3de40c67-8995-4405-bc32-3b01db9a3872" />
+<img width="1280" height="585" alt="Screenshot_2026-02-13_15-59-29" src="https://github.com/user-attachments/assets/c033f82f-3ae0-46d5-a4f5-dd218f5a6a1a" />
+<img width="1274" height="906" alt="Screenshot_2026-02-13_15-59-38" src="https://github.com/user-attachments/assets/67ef3623-d143-4285-ae1f-e2d8a27ad353" />
